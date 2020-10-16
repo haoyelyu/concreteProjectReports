@@ -23,11 +23,11 @@
 
 *Precision* is the ratio of the positive samples among the samples that are classified as positive. A high precision means the algorithm will hardly produce false positive results.
 
-*Recall* is the true positive rate. It answers how many positive samples are labelled positive. A high recall means the algorithm is unlikely to miss a patch containing cracks. (see [Precision and recall](https://en.wikipedia.org/wiki/Precision_and_recall) for detailed explantion)
+*Recall* is the true positive rate. It answers how many positive samples are labelled positive. A high recall means the algorithm is unlikely to miss a patch containing cracks. (see [Precision and recall](https://en.wikipedia.org/wiki/Precision_and_recall) for detailed explantions)
 
-*F1 Score* is a ``mixture'' of precision and recall, which equals 2/(Recall^(-1) + Precision^(-1)). (see [F1 Score](https://en.wikipedia.org/wiki/F1_score) for detailed explantion)[]()
+*F1 Score* is a ``mixture'' of precision and recall, which equals 2/(Recall^(-1) + Precision^(-1)). (see [F1 Score](https://en.wikipedia.org/wiki/F1_score) for detailed explantions)[]()
 
-### Some visualization
+### Some visualizations
 
 I list some typical cases that the algorithm works and fails. You may notice that the algorithm works well when the crack types are obvious. However, the misclassifaction happens when the crack type alters due to the variations of some unobvious features.  
 
