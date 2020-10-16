@@ -21,7 +21,7 @@
 |  Accuracy | 0.79 | 0.73 | 0.84 | 0.96 |
 
 
-*Precision* is the ratio of positive samples among the samples are classified as positive. A high precision means the algorithm will hardly produce false positive results.
+*Precision* is the ratio of the positive samples among the samples that are classified as positive. A high precision means the algorithm will hardly produce false positive results.
 
 *Recall* is the true positive rate. It answers how many positive samples are labelled positive. A high recall means the algorithm is unlikely to miss a patch containing cracks. (see [Precision and recall](https://en.wikipedia.org/wiki/Precision_and_recall) for detailed explantion)
 
