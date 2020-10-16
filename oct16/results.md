@@ -33,26 +33,26 @@ I list some typical cases that the algorithm works and fails. You may notice tha
 
 *You can also find the original images in the folders.*
 
-**J+C25 -37 - D3** (Clockwisely, Blue, Green, Yellow , Red)
+**J+C25 -37 - D3** (Blue, Green, Red , Yellow in order)
 
-<img src='J+C25 -37 - D3/b.jpg' alt="drawing" width="400"/>
-<img src='J+C25 -37 - D3/g.jpg' alt="drawing" width="400"/>
-<img src='J+C25 -37 - D3/r.jpg' alt="drawing" width="400"/>
-<img src='J+C25 -37 - D3/y.jpg' alt="drawing" width="400"/>
+<img src='J+C25 -37 - D3/b.jpg' alt="drawing" width="600"/>
+<img src='J+C25 -37 - D3/g.jpg' alt="drawing" width="600"/>
+<img src='J+C25 -37 - D3/r.jpg' alt="drawing" width="600"/>
+<img src='J+C25 -37 - D3/y.jpg' alt="drawing" width="600"/>
 
-**J+C25-37-B17** (Clockwisely, Blue, Green, Yellow , Red)
+**J+C25-37-B17** (Blue, Green, Red , Yellow in order)
 
-<img src='J+C25 -37 - B17/b.jpg' alt="drawing" width="400"/>
-<img src='J+C25 -37 - B17/g.jpg' alt="drawing" width="400"/>
-<img src='J+C25 -37 - B17/r.jpg' alt="drawing" width="400"/>
-<img src='J+C25 -37 - B17/y.jpg' alt="drawing" width="400"/>
+<img src='J+C25 -37 - B17/b.jpg' alt="drawing" width="600"/>
+<img src='J+C25 -37 - B17/g.jpg' alt="drawing" width="600"/>
+<img src='J+C25 -37 - B17/r.jpg' alt="drawing" width="600"/>
+<img src='J+C25 -37 - B17/y.jpg' alt="drawing" width="600"/>
 
-**NM+UL45 - 68 - D11** (Clockwisely, Blue, Green, Yellow , Red)
+**NM+UL45 - 68 - D11** (Blue, Green, Red , Yellow in order)
 
-<img src='NM+UL45 - 68 - D11/b.jpg' alt="drawing" width="400"/>
-<img src='NM+UL45 - 68 - D11/g.jpg' alt="drawing" width="400"/>
-<img src='NM+UL45 - 68 - D11/r.jpg' alt="drawing" width="400"/>
-<img src='NM+UL45 - 68 - D11/y.jpg' alt="drawing" width="400"/>
+<img src='NM+UL45 - 68 - D11/b.jpg' alt="drawing" width="600"/>
+<img src='NM+UL45 - 68 - D11/g.jpg' alt="drawing" width="600"/>
+<img src='NM+UL45 - 68 - D11/r.jpg' alt="drawing" width="600"/>
+<img src='NM+UL45 - 68 - D11/y.jpg' alt="drawing" width="600"/>
 
 
 
