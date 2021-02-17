@@ -1,4 +1,4 @@
-# Process the generated crack detection results
+# Crack detection flowchart
 
 Given a raw input image, our machine learning algorithm make two predictions
 
