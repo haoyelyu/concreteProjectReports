@@ -1,6 +1,6 @@
 # Crack detection flowchart
 
-Given a raw input image, our machine learning algorithm make two predictions
+Given a raw input image, our machine learning algorithm makes two predictions
 
 1. detect cracks 
 2. for each pixel, give the probabilities that the pixel belongs to three crack type (Y, R, BG), respectively. 
