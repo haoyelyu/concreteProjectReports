@@ -20,7 +20,9 @@ Then we use some computer vision techniques to improve the prediction quality.
 #### Processing details:
 
 1. Remove weak pixels (left: input, right: week pixels removed):
+
 <img src="images/crack_pred.png" width="300">  <img src="images/weak_pixel_rmv.png" width="300">
+
 The process will remove weak white noise. 
 
 2. Find all the connected components:
@@ -30,9 +32,11 @@ The process will remove weak white noise.
 <img src="images/connected_boxed.png" width="300">
 
 4. For each component, if the length of the diagonal of the bounding box is less than $300$, remove it. (Step 3 and 4 together remove small cracks)
+
 <img src="images/connected_cleaned.png" width="300">
 
 5. For each component, check the corresponding area of the crack type prediction image and get the type of majority on pixel level. Color the componenet with the major type:
+
 <img src="images/crack_pred_color.png" width="300"> <img src="images/connected_com.png" width="300">
 
  
