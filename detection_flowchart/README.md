@@ -43,4 +43,5 @@ The process will remove weak white noise.
 ##### After process / ground truth:
  
 Y (Red), R (Green), BG (Blue)
+
  <img src="images/connected_com.png" width="300">  <img src="images/ground_truth.jpg" width="280">
