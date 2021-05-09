@@ -30,11 +30,13 @@ Here are the results scatter plots:
 
 SPR0.20:
 
-![SPR0.20][SPR0.20.png]
+<img src="SPR0.20.png" width="300">
+
 
 SPR16:
 
-![SPR16][SPR16.png]
+<img src="SPR16.png" width="300">
+
 
 
 
