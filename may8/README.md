@@ -26,7 +26,7 @@ The results are put in the folders SPR0.20, SPR16, SPR005 and SPR11
 
 The results are stored in SPR0.20.csv, SPR16.csv, SPR005.csv and SPR11.csv
 
-Here are the results scatter plots:
+Here are the results of the scatter plots:
 
 SPR0.20:
 
