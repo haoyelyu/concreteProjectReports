@@ -20,11 +20,11 @@ Accuracy 0.7443828898374353
 
 # Crack detection results 
 
-The results are put in the folders SPR0.20, SPR16
+The results are put in the folders SPR0.20, SPR16, SPR005 and SPR11
 
 # DRI predictions
 
-The results are stored in SPR0.20.csv and SPR16.csv
+The results are stored in SPR0.20.csv, SPR16.csv, SPR005.csv and SPR11.csv
 
 Here are the results scatter plots:
 
@@ -37,6 +37,12 @@ SPR16:
 
 <img src="SPR16.png" width="300">
 
+SPR005:
 
+<img src="SPR005.png" width="300">
+
+SPR11:
+
+<img src="SPR11.png" width="300">
 
 
